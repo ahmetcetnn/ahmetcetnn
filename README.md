@@ -16,9 +16,6 @@ I am a junior Front-End Developer with a background in law. With the desire to d
 
 
 
-# •	🌍  I'm based in Bursa/Türkiye
-#	•	✉️  You can contact me at  		 [ahmetlaw@outlook.com]
-#	•	🧠  I'm working on HTML CSS JS ReactJS,NextJS,Tailwind
-
-
-```
+        •	🌍  I'm based in Bursa/Türkiye
+	•	✉️  You can contact me at [ahmetlaw@outlook.com]
+	•	🧠  I'm working on HTML CSS JS ReactJS,NextJS,Tailwind
