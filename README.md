@@ -5,9 +5,13 @@
 
 
 
-## Jr. Front-End Developer
+## Front-End Developer
 
-I am a junior Front-End Developer with a background in law. With the desire to develop and deepen my knowledge on web development, I quit my job as a lawyer and started working full-time in this field, while also taking courses. I started the Frontend Path on Scrimba and am currently developing projects with React.js. While aiming to learn a new concept in each of my projects, I am creating areas where I can progress on Firebase Redux and Tailwind and pushing myself for more. The most valuable aspect that I can offer you is my teamwork skills, my ability to learn quickly, and my determination to deliver what is asked of me on time,regardless of the cost.
+ I started my software development career within the JavaScript ecosystem and gradually specialized in React, React Native, and Next.js technologies. Throughout my 3 years of professional experience, I have developed scalable B2B applications, continuously improving myself in user experience, performance, and sustainable architecture.
+
+On the frontend side, I have built visually appealing and highly functional user interfaces using modern UI libraries such as Ant Design, ShadCN, and Tailwind CSS. On the mobile side, I have developed React Native projects within the Expo Go environment, delivering applications that run smoothly on both iOS and Android platforms. During this process, I gained hands-on experience in mobile performance optimization, push notification integrations, API management, and designing in-app user flows.
+
+Additionally, I have worked with WordPress and Shopify platforms, focusing on SEO optimization, theme customization, and general site maintenance, allowing me to be productive across different technology ecosystems. I am always eager to learn new technologies, follow modern software trends, and build user-centered solutions.
 
 
 
